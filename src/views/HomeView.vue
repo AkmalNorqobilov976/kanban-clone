@@ -6,7 +6,7 @@
             <div class="h-full flex flex-col">
 
                 <!-- header-->
-                <div class="cursor-move rounded-t-lg p-4 space-x-4 bg-primary text-white flex space-x-2">
+                <div class="cursor-move rounded-t-lg p-4 space-x-4 bg-primary text-white flex">
                     <HandIcon class="h-6 w-6"></HandIcon>
                     <span class="text-lg">{{ column.name }}</span>
                 </div>
